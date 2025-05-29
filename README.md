@@ -19,7 +19,7 @@ The details of training parameters showed in the source code.
 
 **Mixed Precision Training**: Using autocast and GradScaler for FP16 acceleration.  
 **Gradient Clipping**: Values clipped to [-0.5, 0.5] to prevent exploding gradients.  
-**Batch Size**: (defualt32) for training, 128 for validation.
+**Batch Size**: (defualt) 32 for training, 128 for validation.
 
 #### Evaluation & Checkpoints
 

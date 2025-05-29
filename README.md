@@ -1,4 +1,4 @@
-# 、CIFAR10-ResNet-Attention-Multi-Scale-Fusion
+# CIFAR10-ResNet-Attention-Multi-Scale-Fusion
 ## Preface
 This project adopts a network based on residual blocks, attention mechanisms, and multi-scale fusion, challenging to achieve a native test set accuracy of 80% on the CIFAR10 dataset with label pollution and nighttime effects. However, the current limit of this model is 69.30%
 ## Dataset
